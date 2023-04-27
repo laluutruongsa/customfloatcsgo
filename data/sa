@@ -1,0 +1,43 @@
+
+ {
+    "skin": "M4A4 | Temukau",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 0.8,
+    "rarity": "Covert",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_temukau_light_large.a41eb80c70cbbee5d84e53b5cd1eaa10954c938d.png"
+  },
+
+-----------------
+
+  {
+    "skin": "UMP-45 | Wild Child",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Classified",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump_clutch_kick_light_large.b57e43c07b433517b1c3bdaa1e52ce44878af481.png"
+  },
+
+
+ -------------
+
+
+  {
+    "skin": "R8 Revolver | Banana Cannon",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Restricted",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_gs_r8_banana_light_large.50f0b729a36a405d48b41d58463234dbbd15b9cf.png"
+  },
+
+-----------------------
+  {
+    "skin": "Tec-9 | Rebel",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_cu_tec9_freedom_light_large.bb79585222a88d4dd3b154915c5527cac7e507d1.png"
+  },
