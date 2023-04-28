@@ -104,7 +104,7 @@ async function runBatches(arr, goal, min, max) {
       newBest = false;
 
       if (totalGoals >= 10) {
-        progress.innerText = 'Found 10 perfect combinations, stopping at\n' + progress.innerText;
+        progress.innerText = 'Đã Có 10 Cách Kết Hợp Float, Kết Thúc Tìm Kiếm at\n' + progress.innerText;
         terminate = true;
       }
     }
